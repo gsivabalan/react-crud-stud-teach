@@ -1,6 +1,6 @@
 //import logo from './logo.svg';
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+//import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { useState } from 'react';
 import Dashboard from './components/Dashboard';
 import CreateStudent from './components/CreateStudent';
